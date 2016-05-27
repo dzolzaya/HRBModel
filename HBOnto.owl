@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -8,9 +9,7 @@
     //  Semantic enrichment of mobile phone data records. 12th International Conference on Mobile and Ubiquitous Multimedia 2013: 35:1-35:10" 
     //
     ///////////////////////////////////////////////////////////////////////////////////////
-
-
-<?xml version="1.0"?>
+     -->
 <rdf:RDF xmlns="http://localhost/HRBModel/HBOnto.owl#"
      xml:base="http://localhost/HRBModel/HBOnto.owl"
      xmlns:HBOnto="http://localhost/HRBModel/HBOnto.owl#"
